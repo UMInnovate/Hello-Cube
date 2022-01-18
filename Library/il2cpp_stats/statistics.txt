@@ -1,0 +1,337 @@
+----IL2CPP Arguments----
+--convert-to-cpp --emit-null-checks --enable-stacktrace --enable-array-bounds-check --dotnetprofile=unityaot --compile-cpp --libil2cpp-static --platform=Lumin --architecture=ARM64 --configuration=Release --outputpath=/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Library/Il2cppBuildCache/Lumin/Native/libil2cpp.so --cachedirectory=/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Assets/../Library/il2cpp_cache/il2cpp_cache --baselib-directory=/Applications/Unity/Hub/Editor/2020.3.5f1/PlaybackEngines/LuminSupport/Variations/il2cpp/Release/arm64 --avoid-dynamic-library-copy --verbose --enable-stats --stats-output-dir=/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Assets/../Library/il2cpp_stats --incremental-g-c-time-slice=3 --profiler-report --map-file-parser=/Applications/Unity/Hub/Editor/2020.3.5f1/Unity.app/Contents/Tools/MapFileParser/MapFileParser --directory=/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/Managed --generatedcppdir=/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Library/Il2cppBuildCache/Lumin/il2cppOutput
+
+----Assemblies Converted-----
+	/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/Managed/UnityEngine.UnityAnalyticsModule.dll
+	/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/Managed/UnityEngine.ARModule.dll
+	/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/Managed/System.Configuration.dll
+	/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/Managed/UnityEngine.SpriteShapeModule.dll
+	/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/Managed/UnityEngine.TextRenderingModule.dll
+	/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/Managed/Assembly-CSharp.dll
+	/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/Managed/UnityEngine.LuminModule.dll
+	/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/Managed/UnityEngine.AssetBundleModule.dll
+	/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/Managed/LuminUnity.dll
+	/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/Managed/UnityEngine.AnimationModule.dll
+	/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/Managed/UnityEngine.AudioModule.dll
+	/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/Managed/UnityEngine.XRModule.dll
+	/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/Managed/Unity.XR.InteractionSubsystems.dll
+	/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/Managed/UnityEngine.VFXModule.dll
+	/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/Managed/UnityEngine.InputLegacyModule.dll
+	/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/Managed/UnityEngine.InputModule.dll
+	/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/Managed/Unity.XR.ARSubsystems.dll
+	/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/Managed/UnityEngine.DirectorModule.dll
+	/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/Managed/mscorlib.dll
+	/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/Managed/Unity.XR.Management.dll
+	/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/Managed/UnityEngine.Physics2DModule.dll
+	/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/Managed/Unity.Subsystem.Registration.dll
+	/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/Managed/UnityEngine.dll
+	/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/Managed/UnityEngine.UIModule.dll
+	/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/Managed/UnityEngine.UI.dll
+	/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/Managed/UnityEngine.UIElementsNativeModule.dll
+	/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/Managed/UnityEngine.GridModule.dll
+	/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/Managed/UnityEngine.TerrainModule.dll
+	/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/Managed/UnityEngine.VRModule.dll
+	/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/Managed/UnityEngine.JSONSerializeModule.dll
+	/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/Managed/UnityEngine.SpatialTracking.dll
+	/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/Managed/Mono.Security.dll
+	/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/Managed/System.dll
+	/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/Managed/UnityEngine.SharedInternalsModule.dll
+	/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/Managed/UnityEngine.ImageConversionModule.dll
+	/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/Managed/UnityEngine.TilemapModule.dll
+	/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/Managed/UnityEngine.ParticleSystemModule.dll
+	/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/Managed/UnityEngine.PhysicsModule.dll
+	/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/Managed/UnityEngine.CoreModule.dll
+	/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/Managed/UnityEngine.SubsystemsModule.dll
+	/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/Managed/System.Xml.dll
+	/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/Managed/UnityEngine.UnityWebRequestModule.dll
+	/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/Managed/UnityEngine.XR.MagicLeap.dll
+	/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/Managed/UnityEngine.AndroidJNIModule.dll
+	/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/Managed/UnityEngine.AIModule.dll
+	/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/Managed/UnityEngine.IMGUIModule.dll
+	/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/Managed/System.Core.dll
+	/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/Managed/UnityEngine.VideoModule.dll
+
+----- il2cpp Statistics -----
+General:
+	Conversion Time: 7.406 s
+	Job Count: 8
+	Processor Count: 8
+	Files Written: 264
+	String Literals: 5851
+Methods:
+	Total Methods: 37745
+	Non-Generic Methods: 22697
+	Generic Type Methods: 12387
+	Generic Methods: 2661
+	Shared Methods: 15020
+	Methods with Tail Calls : 0
+Metadata:
+	Total: 3,056.74 kb
+	String Literals: 45.71 kb
+	String Literal Data: 212.61 kb
+	Metadata Strings: 491.93 kb
+	Events: 6.09 kb
+	Properties: 76.99 kb
+	Methods: 776.81 kb
+	Parameter Default Values: 2.37 kb
+	Field Default Values: 64.30 kb
+	Field and Parameter Default Values Data: 77.66 kb
+	Field Marshaled Sizes: 12.91 kb
+	Parameters: 329.04 kb
+	Fields: 184.39 kb
+	Generic Parameters: 13.50 kb
+	Generic Parameter Constraints: 0.53 kb
+	Generic Containers: 7.91 kb
+	Nested Types: 7.05 kb
+	Interfaces: 4.24 kb
+	VTables: 167.48 kb
+	Interface Offsets: 31.35 kb
+	Type Definitions: 382.59 kb
+	Images: 1.88 kb
+	Assemblies: 3.00 kb
+	Field Refs: 0.88 kb
+	Referenced Assemblies: 0.99 kb
+	Attribute Types Ranges: 83.99 kb
+	Attribute Types: 54.30 kb
+	Unresolved Virtual Call Parameter Types: 7.87 kb
+	Unresolved Virtual Call Parameter Ranges: 4.98 kb
+	Windows Runtime type names: 0.00 kb
+	Windows Runtime strings: 0.00 kb
+	Exported Types: 3.37 kb
+Codegen:
+	NullChecks : 56501
+Interop:
+	Windows Runtime boxed types : 0
+	Windows Runtime types with names : 0
+	Native to managed interface adapters : 0
+	Array COM callable wrappers : 0
+	COM callable wrappers : 0
+	COM callable wrapper methods that were implemented : 0
+	COM callable wrapper methods that were stripped : 0
+	COM callable wrapper methods that were forwarded to call base class method : 0
+Compilation:
+	Total Files: 297
+	Files Compiled: 5
+	Cache Hits: 292
+	Cache Hit %: 98
+
+
+----Assembly Conversion Times----
+
+----Misc Timing----
+	PreProcessStage: None
+	GenericsCollector.Collect: None
+	WriteGenerics: None
+	AllAssemblyConversion: None
+
+----Generated Files----
+Assembly-CSharp_Attr.cpp	572864
+Assembly-CSharp.cpp	2267379
+Assembly-CSharp1.cpp	2656644
+Assembly-CSharp2.cpp	2045708
+GenericMethods.cpp	2548765
+GenericMethods1.cpp	3464782
+GenericMethods2.cpp	1964892
+GenericMethods3.cpp	2731201
+GenericMethods4.cpp	2596724
+Generics.cpp	3381733
+Generics1.cpp	2005951
+Generics10.cpp	3346802
+Generics11.cpp	3225601
+Generics12.cpp	2200830
+Generics13.cpp	1563370
+Generics14.cpp	1556745
+Generics15.cpp	1616932
+Generics16.cpp	2972117
+Generics17.cpp	2562073
+Generics18.cpp	2724050
+Generics2.cpp	2553793
+Generics3.cpp	1708967
+Generics4.cpp	1723596
+Generics5.cpp	1612665
+Generics6.cpp	4584615
+Generics7.cpp	2345663
+Generics8.cpp	1980158
+Generics9.cpp	2521128
+Il2CppCCalculateFieldValues.cpp	7761750
+Il2CppCCalculateFieldValues1.cpp	1906296
+Il2CppCCalculateTypeValues.cpp	9202343
+Il2CppCCFieldValuesTable.cpp	233212
+Il2CppCCTypeValuesTable.cpp	420922
+Il2CppCodeRegistration.cpp	7609
+Il2CppGenericAdjustorThunkTable.cpp	657432
+Il2CppGenericComDefinitions.cpp	153
+Il2CppGenericComDefinitions1.cpp	153
+Il2CppGenericComDefinitions10.cpp	153
+Il2CppGenericComDefinitions11.cpp	153
+Il2CppGenericComDefinitions12.cpp	153
+Il2CppGenericComDefinitions13.cpp	153
+Il2CppGenericComDefinitions14.cpp	153
+Il2CppGenericComDefinitions15.cpp	153
+Il2CppGenericComDefinitions16.cpp	153
+Il2CppGenericComDefinitions17.cpp	153
+Il2CppGenericComDefinitions18.cpp	153
+Il2CppGenericComDefinitions19.cpp	153
+Il2CppGenericComDefinitions2.cpp	153
+Il2CppGenericComDefinitions20.cpp	153
+Il2CppGenericComDefinitions21.cpp	153
+Il2CppGenericComDefinitions22.cpp	153
+Il2CppGenericComDefinitions23.cpp	153
+Il2CppGenericComDefinitions24.cpp	153
+Il2CppGenericComDefinitions25.cpp	153
+Il2CppGenericComDefinitions26.cpp	153
+Il2CppGenericComDefinitions27.cpp	153
+Il2CppGenericComDefinitions28.cpp	153
+Il2CppGenericComDefinitions29.cpp	153
+Il2CppGenericComDefinitions3.cpp	153
+Il2CppGenericComDefinitions30.cpp	153
+Il2CppGenericComDefinitions31.cpp	153
+Il2CppGenericComDefinitions32.cpp	153
+Il2CppGenericComDefinitions33.cpp	153
+Il2CppGenericComDefinitions34.cpp	153
+Il2CppGenericComDefinitions35.cpp	153
+Il2CppGenericComDefinitions36.cpp	153
+Il2CppGenericComDefinitions37.cpp	153
+Il2CppGenericComDefinitions38.cpp	153
+Il2CppGenericComDefinitions39.cpp	153
+Il2CppGenericComDefinitions4.cpp	153
+Il2CppGenericComDefinitions40.cpp	153
+Il2CppGenericComDefinitions41.cpp	153
+Il2CppGenericComDefinitions42.cpp	153
+Il2CppGenericComDefinitions43.cpp	153
+Il2CppGenericComDefinitions5.cpp	153
+Il2CppGenericComDefinitions6.cpp	153
+Il2CppGenericComDefinitions7.cpp	153
+Il2CppGenericComDefinitions8.cpp	153
+Il2CppGenericComDefinitions9.cpp	153
+Il2CppGenericMethodPointerTable.cpp	3668486
+Il2CppInteropDataTable.cpp	386529
+Il2CppInvokerTable.cpp	5279361
+Il2CppReversePInvokeWrapperTable.cpp	49000
+LuminUnity_Attr.cpp	1349364
+LuminUnity.cpp	3269083
+LuminUnity1.cpp	3252141
+LuminUnity2.cpp	2665581
+LuminUnity3.cpp	3936247
+LuminUnity4.cpp	4948159
+LuminUnity5.cpp	4712770
+LuminUnity6.cpp	2313119
+Mono.Security_Attr.cpp	32830
+Mono.Security.cpp	149037
+mscorlib_Attr.cpp	911198
+mscorlib.cpp	2523593
+mscorlib1.cpp	2479973
+mscorlib10.cpp	2567936
+mscorlib11.cpp	1726351
+mscorlib12.cpp	1911700
+mscorlib13.cpp	2405983
+mscorlib14.cpp	2167452
+mscorlib15.cpp	2035833
+mscorlib16.cpp	2109871
+mscorlib2.cpp	2334644
+mscorlib3.cpp	2091548
+mscorlib4.cpp	2381441
+mscorlib5.cpp	2341942
+mscorlib6.cpp	2428237
+mscorlib7.cpp	2425391
+mscorlib8.cpp	2010241
+mscorlib9.cpp	2586698
+System_Attr.cpp	93670
+System.Configuration_Attr.cpp	47781
+System.Configuration.cpp	52422
+System.Core_Attr.cpp	273967
+System.Core.cpp	2798371
+System.Core1.cpp	2707079
+System.Core2.cpp	2779581
+System.Core3.cpp	982970
+System.cpp	1458109
+System.Xml_Attr.cpp	52284
+System.Xml.cpp	5978
+System1.cpp	2014759
+System2.cpp	675390
+Unity.Subsystem.Registration_Attr.cpp	10972
+Unity.Subsystem.Registration.cpp	39836
+Unity.XR.ARSubsystems_Attr.cpp	130591
+Unity.XR.ARSubsystems.cpp	892333
+Unity.XR.InteractionSubsystems_Attr.cpp	18360
+Unity.XR.InteractionSubsystems.cpp	123020
+Unity.XR.Management_Attr.cpp	62454
+Unity.XR.Management.cpp	245107
+UnityEngine_Attr.cpp	10906
+UnityEngine.AIModule_Attr.cpp	90379
+UnityEngine.AIModule.cpp	25755
+UnityEngine.AndroidJNIModule_Attr.cpp	144712
+UnityEngine.AndroidJNIModule.cpp	678774
+UnityEngine.AnimationModule_Attr.cpp	172234
+UnityEngine.AnimationModule.cpp	279407
+UnityEngine.ARModule_Attr.cpp	81125
+UnityEngine.ARModule.cpp	31140
+UnityEngine.AssetBundleModule_Attr.cpp	82183
+UnityEngine.AssetBundleModule.cpp	38331
+UnityEngine.AudioModule_Attr.cpp	150557
+UnityEngine.AudioModule.cpp	205157
+UnityEngine.CoreModule_Attr.cpp	1082685
+UnityEngine.CoreModule.cpp	2713264
+UnityEngine.CoreModule1.cpp	2511920
+UnityEngine.cpp	781
+UnityEngine.DirectorModule_Attr.cpp	86763
+UnityEngine.DirectorModule.cpp	23334
+UnityEngine.GridModule_Attr.cpp	95305
+UnityEngine.GridModule.cpp	5679
+UnityEngine.ImageConversionModule_Attr.cpp	87310
+UnityEngine.ImageConversionModule.cpp	11812
+UnityEngine.IMGUIModule_Attr.cpp	190691
+UnityEngine.IMGUIModule.cpp	875616
+UnityEngine.InputLegacyModule_Attr.cpp	95986
+UnityEngine.InputLegacyModule.cpp	163100
+UnityEngine.InputModule_Attr.cpp	83714
+UnityEngine.InputModule.cpp	54528
+UnityEngine.JSONSerializeModule_Attr.cpp	86634
+UnityEngine.JSONSerializeModule.cpp	46300
+UnityEngine.LuminModule_Attr.cpp	96244
+UnityEngine.LuminModule.cpp	59479
+UnityEngine.ParticleSystemModule_Attr.cpp	126115
+UnityEngine.ParticleSystemModule.cpp	82393
+UnityEngine.Physics2DModule_Attr.cpp	157078
+UnityEngine.Physics2DModule.cpp	197751
+UnityEngine.PhysicsModule_Attr.cpp	167804
+UnityEngine.PhysicsModule.cpp	254141
+UnityEngine.SharedInternalsModule_Attr.cpp	146581
+UnityEngine.SharedInternalsModule.cpp	207232
+UnityEngine.SpatialTracking_Attr.cpp	29325
+UnityEngine.SpatialTracking.cpp	208488
+UnityEngine.SpriteShapeModule_Attr.cpp	86667
+UnityEngine.SpriteShapeModule.cpp	4654
+UnityEngine.SubsystemsModule_Attr.cpp	116323
+UnityEngine.SubsystemsModule.cpp	239584
+UnityEngine.TerrainModule_Attr.cpp	108690
+UnityEngine.TerrainModule.cpp	294250
+UnityEngine.TextRenderingModule_Attr.cpp	117761
+UnityEngine.TextRenderingModule.cpp	232174
+UnityEngine.TilemapModule_Attr.cpp	119899
+UnityEngine.TilemapModule.cpp	111964
+UnityEngine.UI_Attr.cpp	342757
+UnityEngine.UI.cpp	2596163
+UnityEngine.UI1.cpp	1679353
+UnityEngine.UI2.cpp	2086032
+UnityEngine.UI3.cpp	1619333
+UnityEngine.UIElementsNativeModule_Attr.cpp	102437
+UnityEngine.UIElementsNativeModule.cpp	115799
+UnityEngine.UIModule_Attr.cpp	123779
+UnityEngine.UIModule.cpp	265903
+UnityEngine.UnityAnalyticsModule_Attr.cpp	97289
+UnityEngine.UnityAnalyticsModule.cpp	79054
+UnityEngine.UnityWebRequestModule_Attr.cpp	126179
+UnityEngine.UnityWebRequestModule.cpp	429586
+UnityEngine.VFXModule_Attr.cpp	128752
+UnityEngine.VFXModule.cpp	105235
+UnityEngine.VideoModule_Attr.cpp	124263
+UnityEngine.VideoModule.cpp	141528
+UnityEngine.VRModule_Attr.cpp	93287
+UnityEngine.VRModule.cpp	22233
+UnityEngine.XR.MagicLeap_Attr.cpp	206431
+UnityEngine.XR.MagicLeap.cpp	2945577
+UnityEngine.XRModule_Attr.cpp	175688
+UnityEngine.XRModule.cpp	657053
+UnresolvedVirtualCallStubs.cpp	660395
+

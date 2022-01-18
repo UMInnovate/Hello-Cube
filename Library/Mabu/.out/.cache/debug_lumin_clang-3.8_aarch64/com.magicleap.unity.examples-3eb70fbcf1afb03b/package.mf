@@ -1,0 +1,997 @@
+{
+ "entries": [
+  {
+   "compression": 8,
+   "hash": "379f19a40400f6cc2af03a24ee7faec48c81c3c1",
+   "pkgpath": "Data/Managed/Metadata/global-metadata.dat",
+   "size": 3130360,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/Managed/Metadata/global-metadata.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "689beb2193d51a5d639cfc6b27888533affcaeda",
+   "pkgpath": "bin/libil2cpp.so",
+   "size": 57064912,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/Native/libil2cpp.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/alicia/Desktop/MagicLeapCertificate/initialdevelopment.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "c8b172e26f3f70ebe921907f4023a13bb61d6de7",
+   "xfrm_path": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Library/Mabu/.out/.cache/debug_lumin_clang-3.8_aarch64/com.magicleap.unity.examples-3eb70fbcf1afb03b/libil2cpp.so-345cb209cbdceb9f",
+   "xfrm_size": 57065670
+  },
+  {
+   "compression": 8,
+   "hash": "4fad385385921cb4cd3169bc67c7f3ed20167fce",
+   "pkgpath": "bin/UnityMagicLeap.so",
+   "size": 3980544,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/Plugins/UnityMagicLeap.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/alicia/Desktop/MagicLeapCertificate/initialdevelopment.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "6ecac761c17217f626f95ebdd10338de510232c5",
+   "xfrm_path": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Library/Mabu/.out/.cache/debug_lumin_clang-3.8_aarch64/com.magicleap.unity.examples-3eb70fbcf1afb03b/UnityMagicLeap.so-46959195e3884af3",
+   "xfrm_size": 3981302
+  },
+  {
+   "compression": 8,
+   "hash": "945947c240a70d048c370a4fa6b0dd415d6c3aab",
+   "pkgpath": "bin/libml_bluetoothle_plugin.so",
+   "size": 14136,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/Plugins/libml_bluetoothle_plugin.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/alicia/Desktop/MagicLeapCertificate/initialdevelopment.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "e1fae56a724d91133e4d401274bb8cae4c706bdb",
+   "xfrm_path": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Library/Mabu/.out/.cache/debug_lumin_clang-3.8_aarch64/com.magicleap.unity.examples-3eb70fbcf1afb03b/libml_bluetoothle_plugin.so-46959195e3884af3",
+   "xfrm_size": 14894
+  },
+  {
+   "compression": 8,
+   "hash": "bf7cac7093aef625f10e45548eabd2b4d3e5472a",
+   "pkgpath": "bin/libml_camera_plugin.so",
+   "size": 14184,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/Plugins/libml_camera_plugin.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/alicia/Desktop/MagicLeapCertificate/initialdevelopment.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "0bbfa776abde9d3bc3951ca663f956e873c49fb6",
+   "xfrm_path": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Library/Mabu/.out/.cache/debug_lumin_clang-3.8_aarch64/com.magicleap.unity.examples-3eb70fbcf1afb03b/libml_camera_plugin.so-46959195e3884af3",
+   "xfrm_size": 14942
+  },
+  {
+   "compression": 8,
+   "hash": "8d79ebf2b331aa9a6dafd21130fc2eea9d604408",
+   "pkgpath": "bin/libml_mediaplayer_plugin.so",
+   "size": 67616,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/Plugins/libml_mediaplayer_plugin.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/alicia/Desktop/MagicLeapCertificate/initialdevelopment.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "47f7cbc6fee2a2898164ceb2f2e7cd5b3cfc4167",
+   "xfrm_path": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Library/Mabu/.out/.cache/debug_lumin_clang-3.8_aarch64/com.magicleap.unity.examples-3eb70fbcf1afb03b/libml_mediaplayer_plugin.so-46959195e3884af3",
+   "xfrm_size": 68374
+  },
+  {
+   "compression": 8,
+   "hash": "e6124da6073b916e29e013cf3ae3f58a4c5fdb0e",
+   "pkgpath": "Data/Resources/mscorlib.dll-resources.dat",
+   "size": 337563,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/Resources/mscorlib.dll-resources.dat"
+  },
+  {
+   "compression": 8,
+   "hash": "f940045ac9c85c597f3c6964569e1854d7a63c1d",
+   "pkgpath": "Data/Resources/unity default resources",
+   "size": 4041032,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/Resources/unity default resources"
+  },
+  {
+   "compression": 8,
+   "hash": "39fb6d195c390cc1b9c3ae7823fed326c36b1c7d",
+   "pkgpath": "Data/Resources/unity_builtin_extra",
+   "size": 646356,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/Resources/unity_builtin_extra"
+  },
+  {
+   "compression": 8,
+   "hash": "af0f326333ed031c607a4cfb908ea59c47681484",
+   "pkgpath": "Data/RuntimeInitializeOnLoads.json",
+   "size": 1547,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/RuntimeInitializeOnLoads.json"
+  },
+  {
+   "compression": 8,
+   "hash": "86af8c24de43cb0e4aafe692596c07013bebbc15",
+   "pkgpath": "Data/ScriptingAssemblies.json",
+   "size": 2711,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/ScriptingAssemblies.json"
+  },
+  {
+   "compression": 8,
+   "hash": "12eea841309a3c140c3ba89a37f0764c8a5fa5e7",
+   "pkgpath": "Data/StreamingAssets/MLImageLibraries/ImageLibraryCache.asset",
+   "size": 406,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/StreamingAssets/MLImageLibraries/ImageLibraryCache.asset"
+  },
+  {
+   "compression": 8,
+   "hash": "778891100a8030ad6096db64784c6e5d67c28378",
+   "pkgpath": "Data/UnitySubsystems/UnityMagicLeap/UnitySubsystemsManifest.json",
+   "size": 417,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/UnitySubsystems/UnityMagicLeap/UnitySubsystemsManifest.json"
+  },
+  {
+   "compression": 8,
+   "hash": "4ee59e5921bfd8dcc0347cbbf587d6ca6b107f05",
+   "pkgpath": "Data/boot.config",
+   "size": 69,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/boot.config"
+  },
+  {
+   "compression": 8,
+   "hash": "f8d005497012b89c65d0cfb8eeaa2304539d1e20",
+   "pkgpath": "Data/globalgamemanagers",
+   "size": 70452,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/globalgamemanagers"
+  },
+  {
+   "compression": 8,
+   "hash": "48e0ddc7a7be1f1cec3c448d35a7f7c92127e9e5",
+   "pkgpath": "Data/globalgamemanagers.assets",
+   "size": 129212,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/globalgamemanagers.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "efc54dddb2c4f2950fa28e03aef6f36fd74ece7e",
+   "pkgpath": "Data/level0",
+   "size": 111560,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/level0"
+  },
+  {
+   "compression": 8,
+   "hash": "42759b8d3fffb4077f8da8424a1cc5c29708c887",
+   "pkgpath": "Data/level0.resS",
+   "size": 131232,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/level0.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "b21df5b2683c995b1aab2817ff735b83a36eb618",
+   "pkgpath": "Data/level1",
+   "size": 117216,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/level1"
+  },
+  {
+   "compression": 8,
+   "hash": "42759b8d3fffb4077f8da8424a1cc5c29708c887",
+   "pkgpath": "Data/level1.resS",
+   "size": 131232,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/level1.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "98ccc0a01a33fea918fd77ec1755998d230d2175",
+   "pkgpath": "Data/level10",
+   "size": 114336,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/level10"
+  },
+  {
+   "compression": 8,
+   "hash": "42759b8d3fffb4077f8da8424a1cc5c29708c887",
+   "pkgpath": "Data/level10.resS",
+   "size": 131232,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/level10.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "f11d408c04d30461cfbf6589cc5f410390f8d83f",
+   "pkgpath": "Data/level11",
+   "size": 117976,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/level11"
+  },
+  {
+   "compression": 8,
+   "hash": "42759b8d3fffb4077f8da8424a1cc5c29708c887",
+   "pkgpath": "Data/level11.resS",
+   "size": 131232,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/level11.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "01167216feff5562e67362cee597a5e75a673dc8",
+   "pkgpath": "Data/level12",
+   "size": 123776,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/level12"
+  },
+  {
+   "compression": 8,
+   "hash": "42759b8d3fffb4077f8da8424a1cc5c29708c887",
+   "pkgpath": "Data/level12.resS",
+   "size": 131232,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/level12.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "6d01043bfae533497cb486ac80c605c1df20b806",
+   "pkgpath": "Data/level13",
+   "size": 121728,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/level13"
+  },
+  {
+   "compression": 8,
+   "hash": "42759b8d3fffb4077f8da8424a1cc5c29708c887",
+   "pkgpath": "Data/level13.resS",
+   "size": 131232,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/level13.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "b8e390d4821480bbbe3fdded70ff02bcb2748e34",
+   "pkgpath": "Data/level14",
+   "size": 113672,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/level14"
+  },
+  {
+   "compression": 8,
+   "hash": "42759b8d3fffb4077f8da8424a1cc5c29708c887",
+   "pkgpath": "Data/level14.resS",
+   "size": 131232,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/level14.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "5c69c0ddc3822bccf5d164d2a0defbb91b8e0b25",
+   "pkgpath": "Data/level15",
+   "size": 113024,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/level15"
+  },
+  {
+   "compression": 8,
+   "hash": "42759b8d3fffb4077f8da8424a1cc5c29708c887",
+   "pkgpath": "Data/level15.resS",
+   "size": 131232,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/level15.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "33ca00b4e8034f6e4d9f8fecb274631d34a9350e",
+   "pkgpath": "Data/level16",
+   "size": 113536,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/level16"
+  },
+  {
+   "compression": 8,
+   "hash": "42759b8d3fffb4077f8da8424a1cc5c29708c887",
+   "pkgpath": "Data/level16.resS",
+   "size": 131232,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/level16.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "1c0132b5d1b06b0002955b695522959049be1563",
+   "pkgpath": "Data/level17",
+   "size": 409432,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/level17"
+  },
+  {
+   "compression": 8,
+   "hash": "42759b8d3fffb4077f8da8424a1cc5c29708c887",
+   "pkgpath": "Data/level17.resS",
+   "size": 131232,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/level17.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "e507da88207d2dc80f54b26283b5867819fab5b6",
+   "pkgpath": "Data/level18",
+   "size": 124400,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/level18"
+  },
+  {
+   "compression": 8,
+   "hash": "42759b8d3fffb4077f8da8424a1cc5c29708c887",
+   "pkgpath": "Data/level18.resS",
+   "size": 131232,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/level18.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "5db09c461d011548ad40fe7b1c4c87a2903c186b",
+   "pkgpath": "Data/level19",
+   "size": 114032,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/level19"
+  },
+  {
+   "compression": 8,
+   "hash": "42759b8d3fffb4077f8da8424a1cc5c29708c887",
+   "pkgpath": "Data/level19.resS",
+   "size": 131232,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/level19.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "d829926e7b3530625e452b0188f9387afb13aed2",
+   "pkgpath": "Data/level2",
+   "size": 145372,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/level2"
+  },
+  {
+   "compression": 8,
+   "hash": "42759b8d3fffb4077f8da8424a1cc5c29708c887",
+   "pkgpath": "Data/level2.resS",
+   "size": 131232,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/level2.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "120a8cd1a35405a39cbe12f0eac7360885de75c0",
+   "pkgpath": "Data/level20",
+   "size": 111264,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/level20"
+  },
+  {
+   "compression": 8,
+   "hash": "42759b8d3fffb4077f8da8424a1cc5c29708c887",
+   "pkgpath": "Data/level20.resS",
+   "size": 131232,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/level20.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "bdc04c2f5e5f1a7f726e94b86bfe8c87cd9b2866",
+   "pkgpath": "Data/level21",
+   "size": 112560,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/level21"
+  },
+  {
+   "compression": 8,
+   "hash": "42759b8d3fffb4077f8da8424a1cc5c29708c887",
+   "pkgpath": "Data/level21.resS",
+   "size": 131232,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/level21.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "af7bc2336aa62b746e6132377a44677d9feda879",
+   "pkgpath": "Data/level22",
+   "size": 111920,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/level22"
+  },
+  {
+   "compression": 8,
+   "hash": "42759b8d3fffb4077f8da8424a1cc5c29708c887",
+   "pkgpath": "Data/level22.resS",
+   "size": 131232,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/level22.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "83fca8628e09657b61547b42093f2fc97a095cfe",
+   "pkgpath": "Data/level23",
+   "size": 788976,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/level23"
+  },
+  {
+   "compression": 8,
+   "hash": "42759b8d3fffb4077f8da8424a1cc5c29708c887",
+   "pkgpath": "Data/level23.resS",
+   "size": 131232,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/level23.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "af8a42277f4bbd443e2cde33435410b96f4d3440",
+   "pkgpath": "Data/level24",
+   "size": 142232,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/level24"
+  },
+  {
+   "compression": 8,
+   "hash": "42759b8d3fffb4077f8da8424a1cc5c29708c887",
+   "pkgpath": "Data/level24.resS",
+   "size": 131232,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/level24.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "ee10e4ad04c81975ad45e850eb7d70006e77e07b",
+   "pkgpath": "Data/level25",
+   "size": 124448,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/level25"
+  },
+  {
+   "compression": 8,
+   "hash": "05e278da51b4ad05ec66f72d95a9ee58312c616e",
+   "pkgpath": "Data/level26",
+   "size": 6812,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/level26"
+  },
+  {
+   "compression": 8,
+   "hash": "42759b8d3fffb4077f8da8424a1cc5c29708c887",
+   "pkgpath": "Data/level26.resS",
+   "size": 131232,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/level26.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "a5dcd206b0320778c3b49f745535be55955c2ded",
+   "pkgpath": "Data/level27",
+   "size": 6900,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/level27"
+  },
+  {
+   "compression": 8,
+   "hash": "42759b8d3fffb4077f8da8424a1cc5c29708c887",
+   "pkgpath": "Data/level27.resS",
+   "size": 131232,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/level27.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "f3210b3e20006718743688dbcb3d432972163d9d",
+   "pkgpath": "Data/level28",
+   "size": 6084,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/level28"
+  },
+  {
+   "compression": 8,
+   "hash": "42759b8d3fffb4077f8da8424a1cc5c29708c887",
+   "pkgpath": "Data/level28.resS",
+   "size": 131232,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/level28.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "66241d5c11c7f1593659933efe448014a3cf55e3",
+   "pkgpath": "Data/level29",
+   "size": 7372,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/level29"
+  },
+  {
+   "compression": 8,
+   "hash": "42759b8d3fffb4077f8da8424a1cc5c29708c887",
+   "pkgpath": "Data/level29.resS",
+   "size": 131232,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/level29.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "79083c55a4f8d819fdb8370631fb538ba0c4685d",
+   "pkgpath": "Data/level3",
+   "size": 112720,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/level3"
+  },
+  {
+   "compression": 8,
+   "hash": "42759b8d3fffb4077f8da8424a1cc5c29708c887",
+   "pkgpath": "Data/level3.resS",
+   "size": 131232,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/level3.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "91c1f23e3d46eb3e8b37015570345010a0faf155",
+   "pkgpath": "Data/level4",
+   "size": 122844,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/level4"
+  },
+  {
+   "compression": 8,
+   "hash": "42759b8d3fffb4077f8da8424a1cc5c29708c887",
+   "pkgpath": "Data/level4.resS",
+   "size": 131232,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/level4.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "50e0bf4caf2f60efa4dc87c6f04cbb429b5ccc6c",
+   "pkgpath": "Data/level5",
+   "size": 118512,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/level5"
+  },
+  {
+   "compression": 8,
+   "hash": "42759b8d3fffb4077f8da8424a1cc5c29708c887",
+   "pkgpath": "Data/level5.resS",
+   "size": 131232,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/level5.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "da5d48710f0b78619d7f218edc5bb7325cee9ee3",
+   "pkgpath": "Data/level6",
+   "size": 112440,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/level6"
+  },
+  {
+   "compression": 8,
+   "hash": "42759b8d3fffb4077f8da8424a1cc5c29708c887",
+   "pkgpath": "Data/level6.resS",
+   "size": 131232,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/level6.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "27fb54fa6f34625955e82a494ec66653366b28fc",
+   "pkgpath": "Data/level7",
+   "size": 131792,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/level7"
+  },
+  {
+   "compression": 8,
+   "hash": "42759b8d3fffb4077f8da8424a1cc5c29708c887",
+   "pkgpath": "Data/level7.resS",
+   "size": 131232,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/level7.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "d070617e14146c1a90599409d2dd1321e0ac1ba3",
+   "pkgpath": "Data/level8",
+   "size": 113184,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/level8"
+  },
+  {
+   "compression": 8,
+   "hash": "6c69af832e67cd8e8f38c03f7bb5f7c90db8b9d6",
+   "pkgpath": "Data/level9",
+   "size": 117128,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/level9"
+  },
+  {
+   "compression": 8,
+   "hash": "42759b8d3fffb4077f8da8424a1cc5c29708c887",
+   "pkgpath": "Data/level9.resS",
+   "size": 131232,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/level9.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "13608d457b7207f2267cea73b571a9a2c5e06b57",
+   "pkgpath": "Data/resources.assets",
+   "size": 14792,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/resources.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "72df8187e8b57e64fb93926431a0053987da4917",
+   "pkgpath": "Data/resources.resource",
+   "size": 5875136,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/resources.resource"
+  },
+  {
+   "compression": 8,
+   "hash": "d3ef9a21aed21f65dcb2e60635fe52aa9f4a9f8c",
+   "pkgpath": "Data/sharedassets0.assets",
+   "size": 2069588,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/sharedassets0.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "f24fae40b8cd07a14aaebdba4836438b2ea8259f",
+   "pkgpath": "Data/sharedassets0.assets.resS",
+   "size": 581656,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/sharedassets0.assets.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "9407eeb7db266e0e420f6fa23d456ae33d9fbc7c",
+   "pkgpath": "Data/sharedassets1.assets",
+   "size": 797620,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/sharedassets1.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "fcb84a4e28ff84a5a66b63befca144ef228a301b",
+   "pkgpath": "Data/sharedassets1.assets.resS",
+   "size": 11184864,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/sharedassets1.assets.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "7648be2cdec18616b190294b66db360c97bbe120",
+   "pkgpath": "Data/sharedassets10.assets",
+   "size": 32612,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/sharedassets10.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "c1d4636b383af207b6fa972240c023b74a82e8b9",
+   "pkgpath": "Data/sharedassets11.assets",
+   "size": 6221,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/sharedassets11.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "76cab248e497ea8334e33f9572385b38e0df8da0",
+   "pkgpath": "Data/sharedassets12.assets",
+   "size": 32164,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/sharedassets12.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "1e0c3be2ed3ed92f25c23740ea930297461e165e",
+   "pkgpath": "Data/sharedassets12.assets.resS",
+   "size": 21844,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/sharedassets12.assets.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "e2c6e398c8325773864ab7915173c4171e66b3d3",
+   "pkgpath": "Data/sharedassets13.assets",
+   "size": 281440,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/sharedassets13.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "ad67465d9b1b3f7d2d3246f834cfc01d407c7455",
+   "pkgpath": "Data/sharedassets13.assets.resS",
+   "size": 918016,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/sharedassets13.assets.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "91c4df6f889ce935d5619960db48288d1017765f",
+   "pkgpath": "Data/sharedassets14.assets",
+   "size": 14200,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/sharedassets14.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "c1482242d6b29fbf8d67f3c227717c5058aa6b64",
+   "pkgpath": "Data/sharedassets14.assets.resS",
+   "size": 180000,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/sharedassets14.assets.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "0817d1b9179ebbfb90f7c761c7810a2edd8b3394",
+   "pkgpath": "Data/sharedassets15.assets",
+   "size": 47692,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/sharedassets15.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "b52af0cd3ee7d7e50a715472fda659316d7a1bd5",
+   "pkgpath": "Data/sharedassets15.assets.resS",
+   "size": 1572864,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/sharedassets15.assets.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "4902b72d09783b433adda0178be550b9be4ed4f9",
+   "pkgpath": "Data/sharedassets16.assets",
+   "size": 6684,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/sharedassets16.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "df146ee387dcb3eb84e081c9ba348fb8536ce066",
+   "pkgpath": "Data/sharedassets17.assets",
+   "size": 45532,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/sharedassets17.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "b861e83039db1958a0c4e4c61eda1895e10789b1",
+   "pkgpath": "Data/sharedassets17.assets.resS",
+   "size": 3218116,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/sharedassets17.assets.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "99ca29d0bb06a78c0695a057584ddcd37a02c40b",
+   "pkgpath": "Data/sharedassets18.assets",
+   "size": 320460,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/sharedassets18.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "c590d2021a614c5610965ab4e9bb827f70d32f5e",
+   "pkgpath": "Data/sharedassets18.assets.resS",
+   "size": 3614248,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/sharedassets18.assets.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "e232d7c29c5af17a326ce6ab3a26351bb7151cb8",
+   "pkgpath": "Data/sharedassets19.assets",
+   "size": 330644,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/sharedassets19.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "7a67fb0a46623d05dd18602eadceb757aa37d230",
+   "pkgpath": "Data/sharedassets19.assets.resS",
+   "size": 3353992,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/sharedassets19.assets.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "d0b76fbbe26d560aa83b0b6e5687fc37a694258d",
+   "pkgpath": "Data/sharedassets2.assets",
+   "size": 1553548,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/sharedassets2.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "85376a1c9a59a8075cda2756a261e3832245f6bf",
+   "pkgpath": "Data/sharedassets2.assets.resS",
+   "size": 5378060,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/sharedassets2.assets.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "cfaf50e6ca03ca61b857dc49c4562b88f3324b1d",
+   "pkgpath": "Data/sharedassets20.assets",
+   "size": 7924,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/sharedassets20.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "fdc1338888fc837278bb48c3b31eabb9fc9ebe6e",
+   "pkgpath": "Data/sharedassets21.assets",
+   "size": 8252,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/sharedassets21.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "4a4bd7cb65c0c8e0a8ed3d47925bece78fba487c",
+   "pkgpath": "Data/sharedassets22.assets",
+   "size": 7020,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/sharedassets22.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "8057f60ca50dc41b1099c532602573aa23d35a4a",
+   "pkgpath": "Data/sharedassets23.assets",
+   "size": 17288,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/sharedassets23.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "08f6e901e74c7516d88b7c0fb9f9c667813d3890",
+   "pkgpath": "Data/sharedassets23.assets.resS",
+   "size": 65532,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/sharedassets23.assets.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "aa08bf8896aa84e6b4acf0a5ef520955b2301508",
+   "pkgpath": "Data/sharedassets24.assets",
+   "size": 44436,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/sharedassets24.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "b093672f7e8f7ec80d16911aacfad54bad52e52b",
+   "pkgpath": "Data/sharedassets24.assets.resS",
+   "size": 2471936,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/sharedassets24.assets.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "e73241490baed9ec5f11ebb275f5985128c328f9",
+   "pkgpath": "Data/sharedassets25.assets",
+   "size": 14096,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/sharedassets25.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "c88fff9a3062cdbb133c78774259f09af47fa0ed",
+   "pkgpath": "Data/sharedassets25.assets.resS",
+   "size": 589824,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/sharedassets25.assets.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "57698a70207b6aa0763498907c469293f13a7398",
+   "pkgpath": "Data/sharedassets26.assets",
+   "size": 5532,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/sharedassets26.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "c9518a096cec0103b74a1a2356d69cd1f59e94ba",
+   "pkgpath": "Data/sharedassets27.assets",
+   "size": 4241,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/sharedassets27.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "0068f4c54f8dc5797769757a23ad03fb6129b0f9",
+   "pkgpath": "Data/sharedassets28.assets",
+   "size": 4241,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/sharedassets28.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "48d19d264bbd2675af35ca7e68e5c4d98521a848",
+   "pkgpath": "Data/sharedassets29.assets",
+   "size": 4265,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/sharedassets29.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "d0e5e0feab6f23de2448ba8b7498bbc6186922d1",
+   "pkgpath": "Data/sharedassets3.assets",
+   "size": 6041,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/sharedassets3.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "3081971f15b6a04e030b9a37b5596789a931fd24",
+   "pkgpath": "Data/sharedassets4.assets",
+   "size": 299608,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/sharedassets4.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "cf15594ed8d7ca0f900c69cc2aae39fab60ccc62",
+   "pkgpath": "Data/sharedassets4.assets.resS",
+   "size": 2768896,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/sharedassets4.assets.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "bf28f5f8b7e759e87e2af093bd22b22c49ce56e0",
+   "pkgpath": "Data/sharedassets5.assets",
+   "size": 14308,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/sharedassets5.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "b52e969965408f794b9196fa096127d3d7a8053c",
+   "pkgpath": "Data/sharedassets5.assets.resS",
+   "size": 2097152,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/sharedassets5.assets.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "ad2071118971152b015dbc13318bfdeaaf6565a8",
+   "pkgpath": "Data/sharedassets6.assets",
+   "size": 6077,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/sharedassets6.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "6781179eb62c7520bc90b9673d32981fcddbef00",
+   "pkgpath": "Data/sharedassets7.assets",
+   "size": 3731276,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/sharedassets7.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "77d282ce113fd6dc9c76bc2f80fc170dac49f44b",
+   "pkgpath": "Data/sharedassets7.assets.resS",
+   "size": 1889648,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/sharedassets7.assets.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "94fdeddb14ae17580019549fbe97a44e4afbd53d",
+   "pkgpath": "Data/sharedassets8.assets",
+   "size": 14024,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/sharedassets8.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "d68ae4ddd072074fd6e84991d77129f7cbb7c2fb",
+   "pkgpath": "Data/sharedassets8.assets.resS",
+   "size": 466944,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/sharedassets8.assets.resS"
+  },
+  {
+   "compression": 8,
+   "hash": "0f2408e9823ca71564e4a1502434449bddac369d",
+   "pkgpath": "Data/sharedassets9.assets",
+   "size": 16160,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Data/sharedassets9.assets"
+  },
+  {
+   "compression": 8,
+   "hash": "26a37cab1cfb2742e4a10100fdb57418964e27da",
+   "pkgpath": "bin/Player.elf",
+   "size": 23130104,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/Player.elf",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/alicia/Desktop/MagicLeapCertificate/initialdevelopment.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "a585371bb9b561d7491b7931675650ff713ada96",
+   "xfrm_path": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Library/Mabu/.out/.cache/debug_lumin_clang-3.8_aarch64/com.magicleap.unity.examples-3eb70fbcf1afb03b/Player.elf-6657ee4d8f7aa27c",
+   "xfrm_size": 23130862
+  },
+  {
+   "compression": 8,
+   "hash": "17b3e75bcfee9efe06b3fadda081d678035a917e",
+   "pkgpath": "manifest.xml",
+   "size": 1395,
+   "src": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Temp/StagingArea/manifest.xml",
+   "xfrm_flags": {
+    "manifest": {
+     "cert_hash": "ed1f11d8e8613b873b4899d229991f70f1f39eeb",
+     "developer_id": "de7619c7-b05c-4778-a0a1-77cf0269f6c4"
+    }
+   },
+   "xfrm_hash": "0077482ad2474b5ae3d2ed5c4fe5a115b2cef188",
+   "xfrm_path": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Library/Mabu/.out/.cache/debug_lumin_clang-3.8_aarch64/com.magicleap.unity.examples-3eb70fbcf1afb03b/manifest.xml-6657ee4d8f7aa27c",
+   "xfrm_size": 1408
+  },
+  {
+   "compression": 8,
+   "hash": "5925de9f4d7b83c65d1fd7b25ced5f0bf8c27e73",
+   "pkgpath": "bin/libc++_shared.so",
+   "size": 976832,
+   "src": "/Users/alicia/MagicLeap/mlsdk/v0.26.0/lumin/stl/libc++/lib/libc++_shared.so",
+   "xfrm_flags": {
+    "signed": {
+     "cert": "/Users/alicia/Desktop/MagicLeapCertificate/initialdevelopment.cert"
+    },
+    "taildata": {
+     "debuggable": true,
+     "sbox": "USER",
+     "version": 3
+    }
+   },
+   "xfrm_hash": "14beea792e9171958777f994f695883c586a7aab",
+   "xfrm_path": "/Users/alicia/Downloads/(2)MagicLeapUnityExamples-main /Library/Mabu/.out/.cache/debug_lumin_clang-3.8_aarch64/com.magicleap.unity.examples-3eb70fbcf1afb03b/libc++_shared.so-166559a0fd04c397",
+   "xfrm_size": 977590
+  }
+ ],
+ "pkgflags": {
+  "signed": {
+   "cert": "/Users/alicia/Desktop/MagicLeapCertificate/initialdevelopment.cert"
+  },
+  "taildata": {
+   "debuggable": true,
+   "devcert": "/Users/alicia/Desktop/MagicLeapCertificate/initialdevelopment.cert",
+   "sbox": "USER",
+   "version": 3
+  }
+ }
+}
